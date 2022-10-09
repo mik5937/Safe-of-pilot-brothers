@@ -1,0 +1,11 @@
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\bin\Debug\Safe of pilot brothers.exe.config
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\bin\Debug\Safe of pilot brothers.exe
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\bin\Debug\Safe of pilot brothers.pdb
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\obj\Debug\Safe of pilot brothers.csproj.AssemblyReference.cache
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\obj\Debug\Safe_of_pilot_brothers.Properties.Resources.resources
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\obj\Debug\Safe of pilot brothers.csproj.GenerateResource.cache
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\obj\Debug\Safe of pilot brothers.csproj.CoreCompileInputs.cache
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\obj\Debug\Safe of pilot brothers.exe
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\obj\Debug\Safe of pilot brothers.pdb
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\obj\Debug\Safe_of_pilot_brothers.Start.resources
+C:\Users\Василий\source\repos\Safe of pilot brothers\Safe of pilot brothers\obj\Debug\Safe_of_pilot_brothers.Game.resources
